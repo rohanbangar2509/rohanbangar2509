@@ -9,14 +9,14 @@ interested in Data Engineering, Data Pipelines, and Cloud Technologies.
 
 - 🎓 B.Tech CSE (AI) student at VIT Pune
 - 💻 Interested in Data Engineering and Backend Systems
-- 🐍 Working with Python and SQL
+- 🐍 Working with Python, C++ and SQL
 - 🔄 Learning ETL, Data Pipelines, and Apache Airflow
 - ☁️ Exploring AWS for Data Engineering
 - 🚀 Building practical projects to strengthen my skills
 
 ## Skills
 
-**Languages:** Python, SQL
+**Languages:** Python, SQL, C++
 
 **Databases:** PostgreSQL, MySQL, MongoDB
 
